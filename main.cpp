@@ -30,7 +30,7 @@ using namespace std;
 #include "f_bantumi.cpp"
 
 //--------------------FUNZIONI PER BANTUMI----------------
-#include "f_ia_bantumi.cpp"
+#include "f_ia_bantumi_MinMax.cpp"
 
 
 
