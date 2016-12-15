@@ -1,5 +1,5 @@
 # Bantumi-MinMaxAndNot
-This software allows you to play Bantumi against the computer  applying mainly two different functions IA.
+This software allows you to play Bantumi against the computer  applying mainly two different functions AI.
 
 The file *f_ia_bantumi_MinMax.cpp* includes functions of Min-Max while *f_ia_bantumi_NoMinMax.cpp* implements a function of probability.
 
